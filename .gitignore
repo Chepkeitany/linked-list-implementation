@@ -2,6 +2,10 @@
 .gitignore
 .idea/
 
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
 
 # Unit test / Coverage reports
 .coverage
