@@ -20,3 +20,4 @@ __pycache__/
 develop-eggs
 lib
 /.tox/
+.cache
